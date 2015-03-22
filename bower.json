@@ -1,0 +1,9 @@
+{
+  "name": "network-walker",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "d3": "~3.5.5",
+    "lodash": "~3.5.0"
+  }
+}

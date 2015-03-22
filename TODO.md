@@ -1,0 +1,1 @@
+- Dynamically compute width based on number of levels open
